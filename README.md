@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at
 [https://www.shubhamhirakki.ml/](https://www.shubhamhirakki.ml/)
 
-- 📝 I regularly write articles on [https://shubhamhirakki.substack.com/](https://shubhamhirakki.substack.com/)
+- 📝 I irregularly write articles on [https://shubhamhirakki.substack.com/](https://shubhamhirakki.substack.com/)
 
 - 📫 How to reach me **shubhamhirakki@gmail.com**
 
