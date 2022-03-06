@@ -7,9 +7,9 @@
 - I’m currently learning **JavaScript and React JS**
 
 - 👨‍💻 All of my projects are available at
-[https://shub78910-portfolio.netlify.app/](https://shub78910-portfolio.netlify.app/)
+[https://www.shubhamhirakki.ml/](https://www.shubhamhirakki.ml/)
 
-- 📝 I regularly write articles on [https://shubhira.blogspot.com/?m=1](https://shubhira.blogspot.com/?m=1)
+- 📝 I regularly write articles on [https://shubhamhirakki.substack.com/](https://shubhamhirakki.substack.com/)
 
 - 📫 How to reach me **shubhamhirakki@gmail.com**
 
