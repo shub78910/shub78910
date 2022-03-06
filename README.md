@@ -1,9 +1,6 @@
 <h1 align="center">Hello. I'm Shubham Hirakki</h1>
 <h3 align="center">Trynna fit into the developer's cult.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shub78910&label=Profile%20views&color=0e75b6&style=flat"
-        alt="shub78910" /> </p>
-
 - I’m currently trying to work on the **MERN stack**
 
 - 👨‍💻 All of my projects are available at
