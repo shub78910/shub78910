@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shub78910&label=Profile%20views&color=0e75b6&style=flat"
         alt="shub78910" /> </p>
 
-- I’m currently learning **JavaScript and React JS**
+- I’m currently trying to work on the **MERN stack**
 
 - 👨‍💻 All of my projects are available at
-[https://www.shubhamhirakki.ml/](https://www.shubhamhirakki.ml/)
+[https://www.shubhamhirakki.ml](https://www.shubhamhirakki.ml)
 
-- 📝 I irregularly write articles on [https://shubhamhirakki.substack.com/](https://shubhamhirakki.substack.com/)
+- 📝 I irregularly write articles on [https://shubhamhirakki.substack.com](https://shubhamhirakki.substack.com)
 
 - 📫 How to reach me **shubhamhirakki@gmail.com**
 
