@@ -4,7 +4,7 @@
 - I’m currently trying to work on the **MERN stack**
 
 - 👨‍💻 All of my projects are available at
-[https://www.shubhamhirakki.ml](https://www.shubhamhirakki.ml)
+[https://www.shubhamhirakki.tech](https://www.shubhamhirakki.tech)
 
 - 📝 I irregularly write articles on [https://shubhamhirakki.substack.com](https://shubhamhirakki.substack.com)
 
