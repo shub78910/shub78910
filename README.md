@@ -1,5 +1,4 @@
 <h1 align="center">Hello. I'm Shubham Hirakki</h1>
-<h3 align="center">Trynna fit into the developer's cult.</h3>
 
 - I’m currently trying to work on the **MERN stack**
 
