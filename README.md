@@ -3,7 +3,7 @@
 - I’m currently trying to work on the **MERN stack**
 
 - 👨‍💻 All of my projects are available at
-[shubhamhirakki.netlify.app](https://www.shubhamhirakki.netlify.app)
+[shubhamhirakki.netlify.app](https://shubhamhirakki.netlify.app)
 
 - 📝 I irregularly write articles on [https://shubhamhirakki.substack.com](https://shubhamhirakki.substack.com)
 
